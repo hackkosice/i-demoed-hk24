@@ -3,7 +3,7 @@ This repository is to show the cool project you created.
 To make it easier to present, we created this sample, which you can edit and use for your HK project.
 -->
 
-![image](template_images/Top.png)
+![image](.template_images/Top.png)
 
 <p align="center">
   <a href="https://hackkosice.com">
@@ -28,7 +28,7 @@ A quick short description of what this project is about. It should be explained 
 3 - 4 four sentences to catch the eye of the viewer of the Githu repository. 
 It can contain some technologies, and what is the outcome of the project.
 
-![image](template_images/Mid.png)
+![image](.template_images/Mid.png)
 
 
 ## Other Project repositories
@@ -60,5 +60,5 @@ If you want to automate it, you can use a cool bot: https://allcontributors.org/
 
 <!-- You can use this section to thank people who helped you create this awesome project outside of your team -->
 
-![image](template_images/Bot.png)
+![image](.template_images/Bot.png)
 
